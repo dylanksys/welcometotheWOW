@@ -1,0 +1,12 @@
+{
+  "name": "hithere",
+  "description": "hi",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/welcometotheWOW"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
